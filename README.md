@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there, i'm Evilyn! 👋
 
-<!--
-**evy-dev/evy-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>I'm eighteen, currently working as a front-end developer but my goal's to be a software engineer. I'm learning english and my programming studies are focused, for now, on my area of expertise:</p>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### I'm learning now
+<div display="flex">
+<img src='https://cdn-icons-png.flaticon.com/512/5968/5968292.png' width="40" height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/5968/5968381.png" width="40"
+height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/174/174854.png" width="40"
+height="40"/>
+<img src="https://cdn-icons-png.flaticon.com/512/732/732190.png" width="40"
+height="40"/>
+  <img src="https://cdn-icons-png.flaticon.com/512/919/919851.png" width="40"
+height="40"/>
+</div>
