@@ -1,4 +1,4 @@
-<h2>Hi there, i'm Evilyn!</h2>
+<h3>Hi there, i'm Evilyn!</h3>
 
 <p>I'm eighteen years old, currently working as a front-end developer but my goal's to be a software engineer. I'm learning english and my programming studies are focused, for now, on my area of expertise: JavaScript, ReactJs, TypeScript, HTML and CSS</p>
 <hr/>
