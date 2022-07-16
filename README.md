@@ -1,6 +1,6 @@
 <h3>Olá!</h3>
 
-<p>Tenho 18 anos, sou fascinada por tecnologia! Aqui estão alguns dos meus primeiros projetos pessoais.</p>
+<h4>Aqui estão alguns dos meus primeiros projetos pessoais.</h4>
 <hr/>
 <h4>Contacts</h4>
 <div>
