@@ -3,8 +3,11 @@
 <p>Trabalho atualmente como desenvolvedora front-end na empresa toukio. Aqui está meu início! Além dos meus projetos iniciais, também estão alguns projetos onde aplico meus conhecimentos práticos.</p>
 <hr/>
 
-<h4>Tecnologias e Ferramentas</h4>
 <img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+          
+          
           
           
 <h4>Esses são meus contatos: </h4>
