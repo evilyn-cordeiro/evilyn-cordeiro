@@ -3,7 +3,9 @@
 <p>Trabalho atualmente como desenvolvedora front-end na empresa toukio. Aqui está meu início! Além dos meus projetos iniciais, também estão alguns projetos onde aplico meus conhecimentos práticos.</p>
 <hr/>
 
-<h4>Estou aprendendo</h4>
+<h4>Tecnologias e Ferramentas</h4>
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+          
 
 <h4>Esses são meus contatos: </h4>
 <div>
