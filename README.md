@@ -1,4 +1,4 @@
-<h3>Olá!</h3>
+<h3>Olá, Dev's!</h3>
 
 <h4>Aqui estão alguns dos meus primeiros projetos pessoais.</h4>
 <hr/>
