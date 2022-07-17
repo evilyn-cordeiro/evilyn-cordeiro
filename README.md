@@ -4,7 +4,7 @@
 <hr/>
 
 <h4>Tecnologias e Ferramentas</h4>
-<img height=50px width=50px .src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img height=50px width=50px src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
           
           
 <h4>Esses são meus contatos: </h4>
