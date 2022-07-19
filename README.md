@@ -1,6 +1,6 @@
 <h3>Olá, Dev's!</h3>
 
-<p color=pink>Aqui está meu início! Além dos meus projetos iniciais, também estão alguns projetos onde aplico meus conhecimentos práticos.</p>
+<p>Aqui está meu início! Além dos meus projetos iniciais, também estão alguns projetos onde aplico meus conhecimentos práticos.</p>
 </div> 
 <h4>Esses são meus contatos: </h4>
 <div>
