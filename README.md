@@ -1,6 +1,6 @@
 <h3>Olá, Dev's!</h3>
 
-<p>Trabalho atualmente como desenvolvedora front-end na empresa toukio. Aqui está meu início! Além dos meus projetos iniciais, também estão alguns projetos onde aplico meus conhecimentos práticos.</p>
+<p color="pink">Aqui está meu início! Além dos meus projetos iniciais, também estão alguns projetos onde aplico meus conhecimentos práticos.</p>
 <hr/>
 </div> 
 <h4>Esses são meus contatos: </h4>
