@@ -1,6 +1,6 @@
-<h3>Olá, Dev's!</h3>
+<h2>Hey there</h2>
 
-<p>Aqui está meu início! Além dos meus projetos iniciais, também estão alguns projetos onde aplico meus conhecimentos práticos.</p>
+<p>Here's my start! In addition to my initial projects, there are also some projects where I apply my practical knowledge.</p>
 </div> 
 <h4>Esses são meus contatos: </h4>
 <div>
