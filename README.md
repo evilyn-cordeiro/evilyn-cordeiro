@@ -9,6 +9,6 @@ Here's my start! In addition to my initial projects, there are also some project
 - 🇺🇸 I'm studying new languages
 
 ## technologies and tools
-
-
-<img src="https://br.pinterest.com/pin/80290805848530989/"/>
+<div>
+<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> 
+</div>
