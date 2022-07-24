@@ -1,4 +1,7 @@
-<p>I'm Evilyn! Here's my start! In addition to my initial projects, there are also some projects where I apply my practical knowledge.</p>
+**I'm Evilyn! 
+
+Here's my start! In addition to my initial projects, there are also some projects where I apply my practical knowledge.
+
 * * *
 </div> 
 <h4>contacts</h4>
