@@ -9,7 +9,7 @@ Here's my start! In addition to my initial projects, there are also some project
 - 🇺🇸 I'm studying new languages
 
 ## technologies and tools
-<div width="100%" display="flex" gap="1rem">
+<div width="100%" display="flex" gap="10px">
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
