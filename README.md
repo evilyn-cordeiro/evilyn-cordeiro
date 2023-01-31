@@ -1,7 +1,7 @@
 ## Prazer, sou a Evilyn! 🇧🇷 😁
 
 Aqui você encontrará meus primeiros projetos! Iniciados em sua maioria no final do ano de 2021.
-...Ps: Sempre volto aqui para me autoavaliar, analisar aquilo que melhorei e o que devo melhorar!
+<p>...Ps: Sempre volto aqui para me autoavaliar, analisar aquilo que melhorei e o que devo melhorar!</p>
 
 ## Sobre Mim
 - 📌 Trabalho na Toukio
