@@ -1,14 +1,15 @@
-## I'm Evilyn!
+## Prazer, sou a Evilyn! 🇧🇷 😁
 
-Here's my start! In addition to my initial projects, there are also some projects where I apply my practical knowledge.
+Aqui você encontrará meus primeiros projetos! Iniciados em sua maioria no final do ano de 2021.
+...Ps: Sempre volto aqui para me autoavaliar, analisar aquilo que melhorei e o que devo melhorar!
 
-## about me
-- 📌 I’m currently working on toukio company
-- 📚 I’m currently learning typescript, javascript and others
-- 🖥 I'm a computer networking technician
-- 🇺🇸 I'm studying new languages
+## Sobre Mim
+- 📌 Trabalho na Toukio
+- 📚 Em contínuo aprendizado em TypeScript, JavaScript!
+- 🖥 Sou técnica em Redes de Computadores!
+- 🇺🇸 Sou uma mera aprendiz de inglês, quero muito ser fluente um dia!
 
-## technologies and tools
+## Ferramentas e Tecnologias que eu utilizo para trabalho ou estudos:
 <div width="100%" display="flex" gap="10px">
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
@@ -16,3 +17,5 @@ Here's my start! In addition to my initial projects, there are also some project
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
+
+## Você também me encontra nas minhas redes sociais: 
