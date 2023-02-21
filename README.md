@@ -1,6 +1,7 @@
 ## Prazer, sou a Evilyn! 🇧🇷 😁
 
 Aqui você encontrará meus primeiros projetos! Iniciados em sua maioria no final do ano de 2021.
+<p>Utilizo o github para alguns projetos privados e também na criação de markdown para geração de alguns conteúdos digitais tanto para o instagram como para blogs!</p>
 <p>...Ps: Sempre volto aqui para me autoavaliar, analisar aquilo que melhorei e o que devo melhorar!</p>
 
 ## Sobre Mim
@@ -16,13 +17,4 @@ Aqui você encontrará meus primeiros projetos! Iniciados em sua maioria no fina
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-</div>
-
-## Você também me encontra nas minhas redes sociais: 
-<div> 
-  <a href="https://instagram.com/evilyn.arj" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
- <a href="https://discord.gg/Evilyn Araújo#3750" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" target="_blank"></a> 
-  <a href = "evilyndeveloper@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/feed/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  
 </div>
