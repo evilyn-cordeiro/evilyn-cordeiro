@@ -6,7 +6,7 @@ Aqui você encontrará meus primeiros projetos! Iniciados em sua maioria no fina
 
 ## Sobre Mim
 - 📌 Trabalho na Toukio
-- 📚 Em contínuo aprendizado em TypeScript, JavaScript!
+- 📚 Em contínuo aprendizado em TypeScript, JavaScript, Python!
 - 🖥 Sou técnica em Redes de Computadores!
 - 🇺🇸 Sou uma mera aprendiz de inglês, quero muito ser fluente um dia!
 
