@@ -5,10 +5,10 @@ Aqui você encontrará meus primeiros projetos! Iniciados em sua maioria no fina
 <p>...Ps: Sempre volto aqui para me autoavaliar, analisar aquilo que melhorei e o que devo melhorar!</p>
 
 ## Sobre Mim
-- 📌 Trabalho na Toukio
-- 📚 Em contínuo aprendizado em TypeScript, JavaScript, Python!
-- 🖥 Sou técnica em Redes de Computadores!
-- 🇺🇸 Sou uma mera aprendiz de inglês, quero muito ser fluente um dia!
+- Trabalho na Toukio
+- Em contínuo aprendizado em TypeScript, JavaScript, Python!
+- Sou técnica em Redes de Computadores!
+- Sou uma mera aprendiz de inglês, quero muito ser fluente um dia!
 
 ## Ferramentas e Tecnologias que eu utilizo para trabalho ou estudos:
 <div width="100%" display="flex" gap="10px">
