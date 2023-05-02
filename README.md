@@ -7,8 +7,7 @@ Esse ano comecei a aprender python, então aqui terão alguns exercícios!
 <p>...Ps: Sempre volto aqui para me autoavaliar, analisar aquilo que melhorei e o que devo melhorar!</p>
 
 ## Sobre Mim
-- Trabalho na Toukio
-- Em contínuo aprendizado em TypeScript, JavaScript, Python!
+- Estou cursando análises e desenvolvimento de sistemas.
 - Sou técnica em Redes de Computadores!
 - Sou uma mera aprendiz de inglês, quero muito ser fluente um dia!
 
@@ -21,6 +20,10 @@ Esse ano comecei a aprender python, então aqui terão alguns exercícios!
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
 <img height="30px" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+          
+                    
           
           
           
