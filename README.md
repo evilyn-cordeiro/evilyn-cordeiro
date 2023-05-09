@@ -6,10 +6,7 @@ Esse ano comecei a aprender python, então aqui terão alguns exercícios!
 <p>Utilizo o github para alguns projetos privados e iniciei a organização do meu portfólio com projetos como landingpages responsivas, telas de login entre várias outras coisas... Vale lembrar que ainda entá em produção! </p>
 <p>...Ps: Sempre volto aqui para me autoavaliar, analisar aquilo que melhorei e o que devo melhorar!</p>
 
-## Sobre Mim
-- Estou cursando análises e desenvolvimento de sistemas.
-- Sou técnica em Redes de Computadores!
-- Sou uma mera aprendiz de inglês, quero muito ser fluente um dia!
+
 
 ## Ferramentas e Tecnologias que eu utilizo para trabalho ou estudos:
 <div width="100%" display="flex" gap="10px">
