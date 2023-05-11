@@ -1,5 +1,5 @@
-![evilyn 1](https://github.com/evilyn-araujo/evilyn-araujo/assets/77305238/8afff749-caba-419d-9e60-a673dfbbc3c5)
 
+![evilyn 1](https://github.com/evilyn-araujo/evilyn-araujo/assets/77305238/a6fcba2c-df1e-4eda-96e8-487c37c1e469)
 <p>Aqui você encontrará meus primeiros projetos! Iniciados em sua maioria no final do ano de 2021.
 Esse ano comecei a aprender python, então aqui terão alguns exercícios!</p>
 
