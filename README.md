@@ -8,14 +8,4 @@ Esse ano comecei a aprender python, então aqui terão alguns exercícios!</p>
 <p>...Ps: Sempre volto aqui para me autoavaliar, analisar aquilo que melhorei e o que devo melhorar!</p>
 
 ## Ferramentas e Tecnologias que eu utilizo para trabalho ou estudos:
-<div width="100%" display="flex" padding="5rem">
-<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
-<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
-<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
-<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-<img height="30px" width="30px"src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" />
-<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
-<img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />         
-</div>
+![Group 1](https://github.com/evilyn-araujo/evilyn-araujo/assets/77305238/e021a298-00f9-41b6-a1e0-14c8502d570e)
