@@ -1,5 +1,4 @@
-
-![evilyn 1](https://github.com/evilyn-araujo/evilyn-araujo/assets/77305238/a6fcba2c-df1e-4eda-96e8-487c37c1e469)
+![Blue Minimalist Futuristic Linkedin Banner 1](https://github.com/evilyn-araujo/evilyn-araujo/assets/77305238/72ebadd5-5439-4a52-9d78-9ab2a3cdffc2)
 <p>Aqui você encontrará meus primeiros projetos! Iniciados em sua maioria no final do ano de 2021.
 Esse ano comecei a aprender python, então aqui terão alguns exercícios!</p>
 
