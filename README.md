@@ -7,7 +7,7 @@ Esse ano comecei a aprender python, então aqui terão alguns exercícios!</p>
 <p>...Ps: Sempre volto aqui para me autoavaliar, analisar aquilo que melhorei e o que devo melhorar!</p>
 
 ## Ferramentas e Tecnologias que eu utilizo para trabalho ou estudos:
-<div width="100%" display="flex" gap="5rem">
+<div width="100%" display="flex" padding="5rem">
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />  
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 <img height="30px" width="30px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
