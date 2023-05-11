@@ -2,9 +2,7 @@
 ![Rectangle 1](https://github.com/evilyn-araujo/evilyn-araujo/assets/77305238/d92c438e-b5f7-4eb1-a8ba-b9e789589233)
 
 <p>Sou uma profissional dedicada e apaixonada por tecnologia. Sou formada como Técnica em Redes de Computadores pela Escola Estadual de Educação Profissional Otília Correia Saraiva, em Barbalha - CE, e estou sempre em busca de aprimorar meus conhecimentos e habilidades!</p>
-<br>
 <p>Com mais de um ano de experiência no mercado de desenvolvimento front-end, tenho habilidades em linguagens como JavaScript, TypeScript e estou iniciando os estudos em Python. Possuo conhecimentos em ReactJS e noções de documentação de projetos e tenho também noções de UX e UI design.</p>
-<br>
 <p>Estou sempre me atualizando sobre as últimas tendências e melhores práticas da área, e atualmente estou no primeiro semestre de Análises e Desenvolvimento de Sistemas no Centro Universitário Paraíso. Sou uma pessoa comprometida, proativa e com grande capacidade de trabalho em equipe. Busco sempre novos desafios e oportunidades para crescer e me desenvolver.</p>
 
 ## Ferramentas e Tecnologias que eu utilizo para trabalho ou estudos:
