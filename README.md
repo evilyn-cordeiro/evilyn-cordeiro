@@ -7,5 +7,7 @@
 <br>
 <p>Estou sempre me atualizando sobre as últimas tendências e melhores práticas da área, e atualmente estou no primeiro semestre de Análises e Desenvolvimento de Sistemas no Centro Universitário Paraíso. Sou uma pessoa comprometida, proativa e com grande capacidade de trabalho em equipe. Busco sempre novos desafios e oportunidades para crescer e me desenvolver.</p>
 
+![image](https://github.com/evilyn-araujo/evilyn-araujo/assets/77305238/6e4b604d-29d9-4eae-bb5b-96ba72d5f2f4)
+
 ## Ferramentas e Tecnologias que eu utilizo para trabalho ou estudos:
 ![Group 1](https://github.com/evilyn-araujo/evilyn-araujo/assets/77305238/e021a298-00f9-41b6-a1e0-14c8502d570e)
