@@ -6,4 +6,3 @@
 
 ## Ferramentas e Tecnologias que eu utilizo para trabalho ou estudos:
 ![Group 1](https://github.com/evilyn-araujo/evilyn-araujo/assets/77305238/e021a298-00f9-41b6-a1e0-14c8502d570e)
-![Rectangle 1](https://github.com/evilyn-araujo/evilyn-araujo/assets/77305238/d92c438e-b5f7-4eb1-a8ba-b9e789589233)
