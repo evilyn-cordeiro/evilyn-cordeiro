@@ -8,7 +8,7 @@ Criar projetos **funcionais**, **bem planejados** e com **atenção aos detalhes
 
 ### 📢 Entre em contato
 
-Fique à vontade para explorar, tirar dúvidas ou conversar sobre os projetos em destaque. Estou sempre aberta a **feedbacks** e novas oportunidades de aprendizado e colaboração!
+Fique à vontade para explorar, tirar dúvidas ou conversar sobre os projetos em destaque.
 
 - **LinkedIn**: [Clique aqui para acessar meu LinkedIn](https://www.linkedin.com/in/evilyn-profiledev)
 - **E-mail**: [evilyndeveloper@gmail.com](mailto:evilyndeveloper@gmail.com)
