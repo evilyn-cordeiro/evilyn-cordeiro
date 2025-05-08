@@ -28,7 +28,7 @@
 <ul style="font-family: 'Comfortaa', sans-serif; font-size: 12px;">
   <li>
     <strong>LinkedIn</strong>: 
-    <a href="https://www.linkedin.com/in/evilyn-profiledev" style="color: #2563EB;">
+    <a href="https://www.linkedin.com/in/evilyn-araujo-profiledev" style="color: #2563EB;">
       Clique aqui para acessar meu LinkedIn
     </a>
   </li>
